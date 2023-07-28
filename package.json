@@ -38,7 +38,7 @@
     "example": "yarn workspace examples start",
     "precommit": "turbo run precommit",
     "docs": "yarn workspace docs start",
-    "postinstall": "husky install"
+    "postinstall": ""
   },
   "author": "LangChain",
   "license": "MIT",
